@@ -1,5 +1,5 @@
 import React from 'react'
-import {withGlobalState} from './hooks/globalState'
+import {withGlobalState} from '../hooks/globalState'
 
 class Home extends React.Component {
     constructor() {
